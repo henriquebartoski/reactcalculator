@@ -1,2 +1,2 @@
 # reactcalculator
- A simple calculator made with react
+ A simple calculator using React
